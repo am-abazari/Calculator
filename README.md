@@ -18,7 +18,7 @@ Simple Calculator App . It includes:
 
 Make sure you have the latest version of ES6 installed.
 
-1. `git clone https://github.com/AmirhosseinAbazari/Todo-List-App`
+1. `git clone https://github.com/AmirhosseinAbazari/Calculator`
 2. Run `index.html`
 3. Open [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
