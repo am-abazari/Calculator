@@ -3,7 +3,7 @@
 A Calculator App built with HTML, CSS, and JavaScript which also has a dark mode.
 
 
-<img width="800" alt="React Messenger Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/907416884440354836/Screenshot_167.png?width=1375&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple Calculator App . It includes: 
 
